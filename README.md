@@ -9,3 +9,12 @@ https://github.com/kissrobber/Automatic-Baby-Bouncer/blob/master/autobabybouncer
 
 # Circuit
 ![Circuit](https://raw.githubusercontent.com/kissrobber/Automatic-Baby-Bouncer/master/autobabybouncer.png)
+
+# Parts list
+
+| name | price | note |
+| --- | --- | --- |
+| Arduino UNO | 2,940 JPY | http://akizukidenshi.com/catalog/g/gM-07385/ |
+| Solenoid | 2,380 JPY | http://www.takaha.co.jp/SHOP/CB12500080.html |
+| Micro switch | 80 JPY | http://akizukidenshi.com/catalog/g/gP-09187/ |
+| NPN transistor | 50 JPY | http://akizukidenshi.com/catalog/g/gI-02510/ | 
